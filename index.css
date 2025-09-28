@@ -176,7 +176,7 @@ main {
 
 /* Columns */
 .column-bg-image {
-    background-image: url('../images/cleaning1.jpg');
+    background-image: url('images/cleaning1.jpg');
     background-repeat:  no-repeat;
     background-size:  cover;
     height: 350px;
@@ -762,4 +762,5 @@ main h1::after {
 /*.services-columns li:hover {
     box-shadow: 0 12px 32px rgba(56,189,248,0.13);
     border: 1px solid #38bdf8;
+
 }*/
